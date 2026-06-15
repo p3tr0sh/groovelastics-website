@@ -283,6 +283,12 @@ concerts:
       name: Culinari Feinkost
       link: https://maps.app.goo.gl/4cMYmUAn6BzPiaJcA
 
+  - name: Strandkonzert - Grinsekatz
+    date: 2026-08-27T19:00
+    location:
+      name: 'Grinsekatz'
+      link: 'https://goo.gl/maps/ay6iSZTR8Y7sDvV96'
+    link: https://grinsekatz.de/events/monat/2026-08/
 
   - name: BBG Sommerfest
     date: 2026-08-30T17:30
